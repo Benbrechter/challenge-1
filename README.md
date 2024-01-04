@@ -1,2 +1,2 @@
-# challenge-1
-making a simple website with basic Html and Css
+# Student mini-project 1
+Build a simple website using Html and Css.
